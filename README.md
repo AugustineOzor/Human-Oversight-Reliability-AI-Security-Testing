@@ -2,7 +2,7 @@
 
 <img width="1100" height="480" alt="banner (3)" src="https://github.com/user-attachments/assets/1dfe95ee-fbcc-4c35-bd59-6a2c2b6f6c32" />
 
-A fictional portfolio project demonstrating how human-oversight, reliability, and cybersecurity requirements for a high-risk AI system can be translated into operational controls, measurable tests, evidence, and governance decisions — aligned with **EU AI Act Articles 14 and 15**.
+This project demonstrating how human-oversight, reliability, and cybersecurity requirements for a high-risk AI system can be translated into operational controls, measurable tests, evidence, and governance decisions — aligned with **EU AI Act Articles 14 and 15**.
 
 ## About this repository
 
@@ -18,7 +18,7 @@ This repository contains a single-file portfolio project covering:
 - A framework alignment matrix spanning the EU AI Act, NIST AI RMF, NIST CSF 2.0, ISO/IEC 42001/27001, and the OWASP GenAI LLM Top 10
 - The final governance decision and portfolio presentation notes
 
-**Fictional scenario:** The project assesses a hypothetical **AI security agent** used by an internal Security Operations Center. The agent analyzes security alerts, retrieves data from internal systems, correlates events, and recommends containment actions — with the ability to initiate low-risk investigative tools. Testing (synthetic, not from a live system) surfaced critical and high-severity gaps — including an indirect prompt-injection vulnerability and a restricted-metadata disclosure issue — leading to a final decision of **conditional approval for advisory-only use**, with autonomous containment disabled pending remediation and retesting.
+**scenario:** The project assesses a hypothetical **AI security agent** used by an internal Security Operations Center. The agent analyzes security alerts, retrieves data from internal systems, correlates events, and recommends containment actions — with the ability to initiate low-risk investigative tools. Testing (synthetic, not from a live system) surfaced critical and high-severity gaps — including an indirect prompt-injection vulnerability and a restricted-metadata disclosure issue — leading to a final decision of **conditional approval for advisory-only use**, with autonomous containment disabled pending remediation and retesting.
 
 ## Frameworks referenced
 
