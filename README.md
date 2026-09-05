@@ -32,7 +32,7 @@ This repository contains a single-file portfolio project covering:
 
 ---
 
-# Project 6: Human Oversight, Reliability and AI Security Testing
+# Human Oversight, Reliability and AI Security Testing
 
 This portfolio project demonstrates how an AI Governance Analyst can translate human-oversight, reliability, and cybersecurity requirements into operational controls, measurable tests, evidence, and approval decisions. The scenario and test results below are **hypothetical and created for portfolio demonstration purposes**. They do not represent testing performed on a live production system.
 
